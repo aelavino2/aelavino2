@@ -6,9 +6,10 @@ I am starting to actively maintain and grow my GitHub profile by showcasing my p
 
 ### 🚀 About Me & My Journey
 
-- 💻 **Core Stack:** Maining **C#** and **.NET** for backend development.
-- 🌱 **Current Focus:** Expanding my skillset into **Frontend** technologies.
-- 🤖 **Future Goals:** Planning to deep dive into **LLMs** (Large Language Models) and **Neural Networks** / AI integration.
+- 💻 **Current Role:** I am a **.NET Backend Developer**.
+- 📂 **Repository Plans:** I plan to upload my **Web development** and **Desktop** projects here.
+- 🌱 **Next Step:** Learning **Frontend** technologies to expand my skillset.
+- 🤖 **Future Goals:** After that, I will deep dive into **LLMs** (Large Language Models) and **Neural Networks** / AI integration.
 
 ---
 
